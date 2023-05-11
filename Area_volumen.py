@@ -190,6 +190,7 @@ def opc_flatFigure(opc):
             per = circle_Perimeter(r)
             area = circle_Area(r)
             print_flatFigure('circulo', per, area)
+            
         case _:
             print("Opcion invalida")
 
